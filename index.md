@@ -51,35 +51,35 @@
 ---
 
 ## Создать новую ветку
-*git branch name
+*git branch name*
 
 ---
 
 ## Перенос основания ветки
-*git rebase name
+*git rebase name*
 ### После разрешения всех конфликтов ввести 
-*git rebase --continue
+*git rebase --continue*
 ### Для отмены переноса ввести
-*git rebase --abort
+*git rebase --abort*
 
 ---
 
 ## Вливание одной ветки в другую
-*git marge name
+*git marge name*
 
 ---
 
 ## Скачивание репозитория
-*git clone URL
+*git clone URL*
 
 ---
 
 ## Отправка изменений на git-хостинг
-*git push
+*git push*
 
 ---
 
 ## Получение изменений с git-хостинга
-*git pull
+*git pull*
 
 ---
